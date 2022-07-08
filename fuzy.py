@@ -1,4 +1,3 @@
-
 class BentukKeramik():
     kotak = 20
     segitiga = 50
